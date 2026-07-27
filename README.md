@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Clinton Olorunfemi Kehinde 👋
 
-<!--
-**Heisdavein/Heisdavein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Support Specialist | Help Desk & Technical Support | Networking & Systems Support
 
-Here are some ideas to get you started:
+I'm an IT Support professional with a strong interest in troubleshooting, networking, system administration, and cybersecurity. I enjoy solving technical problems, supporting users, and building hands-on labs to strengthen my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also ISC² Certified in Cybersecurity (CC) and I'm gradually transitioning into a SOC Analyst career through practical experience and continuous learning.
+
+## 🛠 Technical Skills
+
+- Windows 10/11
+- Microsoft 365
+- Active Directory
+- Networking (TCP/IP, DNS, DHCP)
+- Hardware & Software Troubleshooting
+- Remote Desktop Support
+- Help Desk Ticketing
+- Basic PowerShell
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- SIEM (Microsoft Sentinel & Splunk)
+- Incident Response
+- Threat Detection
+  
+
+## 📫 Connect With Me
+
+💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/clinton-kehinde-9a5789316?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+📸 Instagram: [@heisdavein](https://www.instagram.com/heisdavein?igsh=MWUxMWNhNWhkM2w5bg==)
+
+---
+⭐ Always learning. Always building. Always improving.
