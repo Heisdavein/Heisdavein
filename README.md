@@ -8,15 +8,13 @@ I'm also ISC² Certified in Cybersecurity (CC) and I'm gradually transitioning i
 
 ## 🛠 Technical Skills
 
-- Windows 10/11
-- Microsoft 365
-- Active Directory
-- Networking (TCP/IP, DNS, DHCP)
-- Hardware & Software Troubleshooting
-- Remote Desktop Support
-- Help Desk Ticketing
-- Basic PowerShell
-- Git & GitHub
+OS & Systems: Windows Server 2022/2025, Windows 10/11, Active Directory (AD DS), Group Policy (GPO), DNS/DHCP, NTFS Permissions, Windows Backup, Event Viewer
+Networking & Security: TCP/IP, VLANs, VPN (Site-to-Site & SSL), Firewall Administration (WatchGuard), NAT/ACLs, Cisco IOS, DNS/NTP, Troubleshooting (ping, traceroute, IPCONFIG)
+Cloud & Collaboration: Microsoft 365 (Exchange, Teams, SharePoint, OneDrive), Microsoft Intune, Entra ID, Conditional Access
+Monitoring & Backup: PRTG, SNMP, Veeam Backup & Replication, Disaster Recovery
+Scripting & Tools: PowerShell, Python,VMware, VirtualBox
+Soft Skills: Technical Documentation, Cross-Team Communication, Customer Support, Root Cause Troubleshooting
+
 
 ## 📚 Currently Learning
 
